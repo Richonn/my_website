@@ -1,0 +1,20 @@
+p.welcome{
+    color: #5503e2;
+    background-color: #fff;
+    size: 40px;
+}
+p.cheers{
+    color:#240486;
+    background-color: #fff;
+    size: 10px;
+    opacity: 1;
+}
+body.main_background{
+    background-color:bisque;
+}
+h1.main_title{
+    font-size: 100px;
+    background-color: rgb(0, 0, 0);
+    padding-left: 10px;
+
+}
